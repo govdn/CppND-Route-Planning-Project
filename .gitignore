@@ -1,0 +1,12 @@
+*.swp
+*.osm
+!map.osm
+*.o
+draw.cpp
+test.cpp
+build/
+.github/**
+thirdparty/googletest/*
+thirdparty/pugixml/*
+!thirdparty/googletest/.gitkeep
+!thirdparty/pugixml/.gitkeep 
